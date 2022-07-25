@@ -1,4 +1,6 @@
 # QR-code-component
+https://ninkstan.github.io/QR-code-component/
+
 A solution for Frontend Mentor's QR code component 
 
 Hi! This repository is created to submit a solution for the QR code component challange in Frontend Mentor.
